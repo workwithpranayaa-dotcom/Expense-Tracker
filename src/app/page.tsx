@@ -1,4 +1,4 @@
-use client";
+"use client";
 import {useMemo,useState} from "react";
 import {Bar,BarChart,ResponsiveContainer,Tooltip,XAxis,YAxis} from "recharts";
 import {BarChart3,Box,ChevronDown,LayoutDashboard,Package,Search,Settings,ShoppingBag,Users} from "lucide-react";
